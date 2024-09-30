@@ -5,10 +5,10 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/ritik-bharti-6a2692256/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ritik-bharti-6a2692256/"><img height="30" src="https://raw.githubusercontent.com/RitikBharti12/RitikBharti12/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 
-<a href="https://www.facebook.com/barti.mani/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/barti.mani/"><img height="30" src="https://raw.githubusercontent.com/Ritik bharti/Ritik bharti/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
  </p>
 
