@@ -37,7 +37,7 @@
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
-   - I do developement and a bit of everything :heart:
+ - I do developement and a bit of everything :heart:
  
  - All About living life at its best.
  
