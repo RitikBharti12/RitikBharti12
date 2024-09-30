@@ -8,7 +8,7 @@
    <a href="https://www.linkedin.com/in/ritik-bharti-6a2692256/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 
-<a href="https://www.facebook.com/barti.mani/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/barti.mani/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
  </p>
 
